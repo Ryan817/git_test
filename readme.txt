@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git changes.
 Git dev test
 Git bug test
+/usr/bin/env
